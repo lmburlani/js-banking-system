@@ -6,5 +6,5 @@ Interface of a banking system made in node.js, capable of storing, querying, cre
 ```
 git clone <this-repo>
 npm install
-npm start run
+npm start 
 ```
